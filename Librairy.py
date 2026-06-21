@@ -1,6 +1,6 @@
 from skidl import *
 
-if __name__ == "__Main__":
+if __name__ == "__main__":
 
     # Global power nets
     VCC = Net("VCC")
